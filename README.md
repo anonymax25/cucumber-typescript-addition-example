@@ -1,8 +1,8 @@
 # Cucumber & Typescript Example
 
-![cucumber tests](https://github.com/anonymax25/cucumber-typescript-example/actions/workflows/test_cucumber.yml/badge.svg) 
+![cucumber tests](https://github.com/anonymax25/cucumber-typescript-addition-example/actions/workflows/test_cucumber.yml/badge.svg) 
 
-![unit tests](https://github.com/anonymax25/cucumber-typescript-example/actions/workflows/test_unit.yml/badge.svg)
+![unit tests](https://github.com/anonymax25/cucumber-typescript-addition-example/actions/workflows/test_unit.yml/badge.svg)
 
 
 ## By [Maxime d'Harboullé](https://github.com/anonymax25)
